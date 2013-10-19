@@ -88,3 +88,6 @@ Imagine the 5X5 grid on your touch-pad and draw the pattern as follows. After dr
 ## Comments, Suggestion
 
 If you have any suggestions or some problem regarding `alphaTouch` feel free to ping me at `sagarrakshe2@gmail.com`
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tripples/alphatouch/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
